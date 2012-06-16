@@ -1,0 +1,13 @@
+{
+   "name": "TweetFreq",
+   "version": "0.0.1",
+   "description": "Simple module to return word frequency in the last 1000 tweets of a person",
+   "keywords": []
+   "license": "MIT"
+   "main": "./lib/tweetfreq"
+   "dependencies": {
+       "request": "2.9.202"/*,
+       "mock-request": "0.1.2",
+       "sandboxed-module": "0.1.2"*/
+   }
+}
